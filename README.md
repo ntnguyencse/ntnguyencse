@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nguyen @ntnguyencse
+- 👋 Hi, I’m Nguyen (Andy)
 - 👀 I’m interested in Cloud Computing, Cloud Native, 5G Applying Cloud Infrastructure
-- 🌱 I’m currently learning Master Degree at Soongsil University, Korea
+- 🌱 I’m a DevSecOps Engineer
 - 💞️ I’m looking to collaborate on Cloud Computing, Cloud Native, 5G
 - 📫 How to reach me ntnguyencse@gmail.com
 
